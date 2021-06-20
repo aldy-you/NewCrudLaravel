@@ -5,7 +5,7 @@
 <a href="{{ route('barang.create') }}" class="btn btn-primary">Tambah</a>
 <br />
 <br />
-<table class="table table-bordered table-striped">
+<table id="tabel-data" class="table table-bordered table-striped table-hover">
     <thead>
         <th>No</th>
         <th>Nama</th>
