@@ -1,0 +1,5 @@
+-Read me now-
+Untuk menguji crud tersebut pastikan Anda telah membuat database di phpmyadmin dan seting file .env 
+lalu melakukan perintah migrate di laravel.
+
+Terima kasih ^_^

@@ -9,7 +9,7 @@
     <thead>
         <th>No</th>
         <th>Nama</th>
-            <th>Jenis</th>
+        <th>Jenis</th>
         <th>Deskripsi</th>
         <th>Aksi</th>
     </thead>
